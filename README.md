@@ -10,7 +10,7 @@ step 3:  do all this pip installs
          1.pip install mediapipe
          2.pip install tkintertable
          3.pip install numpy
-step 4: type : python main.py
+step 4: To run type : python main.py
 
 Note : Make sure u press submit button after filling the inputs and to clear screen before asking for new output.
        To close the cam press 'q'. 
