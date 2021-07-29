@@ -11,11 +11,11 @@ step 2:cd into the project folder.
 step 3:make virtual environment first.
 
 step 4:  do all this pip installations:
-         1.pip install mediapipe
-         2.pip install tkintertable
-         3.pip install numpy
-         4.pip install playsound
-         5.pip install gTTS
+         1.pip install mediapipe.
+         2.pip install tkintertable.
+         3.pip install numpy.
+         4.pip install playsound.
+         5.pip install gTTS.
          
 step 5: To run type : python main.py.
 
